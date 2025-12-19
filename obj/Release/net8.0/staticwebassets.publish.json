@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Thxh1V8oOFq0rNluAHOdXVFlJNMkzHCF4PzTStuXYV4=",
+  "Hash": "GQFXUtAfsaLkrYZrqyi+GDU7LlKqljOI8yI0rU/7gGg=",
   "Source": "DotnetStockAPI",
   "BasePath": "_content/DotnetStockAPI",
   "Mode": "Default",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\e616880a-f72f-4b36-8253-882f15118a82.png"
+    },
+    {
+      "Identity": "D:\\01-Project\\02-Angular\\DotnetStockAPI\\wwwroot\\uploads\\eae27cd2-f741-4201-b8e8-fef23dfeab22.webp",
+      "SourceId": "DotnetStockAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\01-Project\\02-Angular\\DotnetStockAPI\\wwwroot\\",
+      "BasePath": "_content/DotnetStockAPI",
+      "RelativePath": "uploads/eae27cd2-f741-4201-b8e8-fef23dfeab22.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\eae27cd2-f741-4201-b8e8-fef23dfeab22.webp"
     },
     {
       "Identity": "D:\\01-Project\\02-Angular\\DotnetStockAPI\\wwwroot\\uploads\\f8ee9553-dae4-4ff3-a47f-73253aa0716d.jpg",

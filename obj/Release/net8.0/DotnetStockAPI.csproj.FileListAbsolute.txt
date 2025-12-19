@@ -112,3 +112,4 @@ D:\01-Project\02-Angular\DotnetStockAPI\obj\Release\net8.0\refint\DotnetStockAPI
 D:\01-Project\02-Angular\DotnetStockAPI\obj\Release\net8.0\DotnetStockAPI.pdb
 D:\01-Project\02-Angular\DotnetStockAPI\obj\Release\net8.0\DotnetStockAPI.genruntimeconfig.cache
 D:\01-Project\02-Angular\DotnetStockAPI\obj\Release\net8.0\ref\DotnetStockAPI.dll
+D:\01-Project\02-Angular\DotnetStockAPI\obj\Release\net8.0\DotnetStockAPI.sourcelink.json

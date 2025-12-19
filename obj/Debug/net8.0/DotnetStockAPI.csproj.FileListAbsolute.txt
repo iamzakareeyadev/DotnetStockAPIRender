@@ -1,11 +1,14 @@
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\appsettings.Development.json
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\appsettings.json
+D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\DotnetStockAPI.staticwebassets.runtime.json
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\DotnetStockAPI.exe
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\DotnetStockAPI.deps.json
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\DotnetStockAPI.runtimeconfig.json
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\DotnetStockAPI.dll
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\DotnetStockAPI.pdb
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Humanizer.dll
+D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -16,6 +19,12 @@ D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.EntityFramewo
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Npgsql.dll
@@ -29,6 +38,7 @@ D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\System.Composition.Conv
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -88,6 +98,7 @@ D:\01-Project\02-Angular\DotnetStockAPI\obj\Debug\net8.0\DotnetStockAPI.Assembly
 D:\01-Project\02-Angular\DotnetStockAPI\obj\Debug\net8.0\DotnetStockAPI.csproj.CoreCompileInputs.cache
 D:\01-Project\02-Angular\DotnetStockAPI\obj\Debug\net8.0\DotnetStockAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\01-Project\02-Angular\DotnetStockAPI\obj\Debug\net8.0\DotnetStockAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\01-Project\02-Angular\DotnetStockAPI\obj\Debug\net8.0\DotnetStockAPI.sourcelink.json
 D:\01-Project\02-Angular\DotnetStockAPI\obj\Debug\net8.0\staticwebassets.build.json
 D:\01-Project\02-Angular\DotnetStockAPI\obj\Debug\net8.0\staticwebassets.development.json
 D:\01-Project\02-Angular\DotnetStockAPI\obj\Debug\net8.0\staticwebassets\msbuild.DotnetStockAPI.Microsoft.AspNetCore.StaticWebAssets.props
@@ -102,13 +113,3 @@ D:\01-Project\02-Angular\DotnetStockAPI\obj\Debug\net8.0\refint\DotnetStockAPI.d
 D:\01-Project\02-Angular\DotnetStockAPI\obj\Debug\net8.0\DotnetStockAPI.pdb
 D:\01-Project\02-Angular\DotnetStockAPI\obj\Debug\net8.0\DotnetStockAPI.genruntimeconfig.cache
 D:\01-Project\02-Angular\DotnetStockAPI\obj\Debug\net8.0\ref\DotnetStockAPI.dll
-D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-D:\01-Project\02-Angular\DotnetStockAPI\bin\Debug\net8.0\DotnetStockAPI.staticwebassets.runtime.json
