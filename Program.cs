@@ -12,8 +12,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddDbContext<ApplicationDbContext>(options => 
 {
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")); //local
-    // options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnectionRender"));
+    // options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")); //local
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnectionRender"));
 });
 
 // Adding Identity
